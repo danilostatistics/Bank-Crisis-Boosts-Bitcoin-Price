@@ -19,4 +19,4 @@ This repository contains all the necessary materials to replicate the research s
 
 - `data/`: This folder contains all the datasets used in the study.
 - `scripts/`: This folder contains the R scripts used for data analysis and graph generation.
-- `graphs/`: This folder contains the graphs generated from the analysis.
+- `graphs_paper/`: This folder contains the graphs generated from the analysis.
