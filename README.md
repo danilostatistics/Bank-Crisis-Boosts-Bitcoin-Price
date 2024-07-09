@@ -22,4 +22,4 @@ For more details on the study, you can refer to the publication [here](https://w
 
 ## License 
 
-This project is licensed under the MIT License
+This project is licensed under the GPL License
